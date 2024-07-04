@@ -30,6 +30,15 @@
     // // var_dump( $casado );
     // print"O valor para casado é $casado";
 
+    // $vet = [6, 2, 9, 3, 5];
+    // var_dump($vet);
+
+    // class Pessoa {
+    //     private string $nome;
+    // }
+    // $p = new Pessoa;
+    // var_dump($p);
+
 
     ?>
 </body>
