@@ -8,7 +8,7 @@
 </head>
 <body>
 
-    <main>
+ <main>
         <h1>Conversor de Moedas</h1>
     <?php 
         //Cotação copiada do Google
@@ -30,7 +30,7 @@
 
     <button onclick="javascript:history.go(-1)">Voltar</button>
 
-    </main>
+</main>
     
 </body>
 </html>
